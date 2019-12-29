@@ -15,5 +15,5 @@ A countdown to the new year.
 Sophia
 
 ## Acknowledgements
-Project inspiration by Florin Pop
-Photo by Ian Schneider on Unsplash
+- Project inspiration by Florin Pop
+- Photo by Ian Schneider on Unsplash
